@@ -2,9 +2,9 @@
 Tutorial to Master the TensorFlow Library
 
 **These beginner tutorials take into account you're able to:**
-1. open a zip file
-2. download software on your computer
-3. Basics in Terminal (Mac, Linux) or Command Line (Windows) handling
+1. Open a zip file
+2. Download software on your computer and follow instructions
+3. Run stuff in Terminal (Mac, Linux) or Command Line (Windows)
 
 # Environment: how to set up your computer
 
