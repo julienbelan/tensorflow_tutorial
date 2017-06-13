@@ -6,14 +6,14 @@ Tutorial to Master the TensorFlow Library
 2. download software on your computer
 3. Basics in Terminal (Mac, Linux) or Command Line (Windows) handling
 
-# Environment: How to set up your computer
+# Environment: how to set up your computer
 
 You'll need:
 - Anaconda: Library with Python + all the stuff you'll need
 - Tensorflow: Library for machine learning
 - Keras: TensorFlow simplified library for machine learning
 
-# Downloads: Where to get those
+# Downloads: where to get those
 
 ***Anaconda***
 1. Go to [Anaconda Installation Website](https://www.continuum.io/downloads)
@@ -30,10 +30,6 @@ You'll need:
 
 ***Keras***
 1. Type *pip install Keras*
-
-**Now you have Anaconda with Tensorflow installed on your computer and this complete the environment**
-
-**Jupyter and Github: How to get going**
 
 ***GitHub***
 GitHub is where you are standing now, it's a shared place to get the tutorials, ask question or report issues.
