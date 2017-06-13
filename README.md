@@ -42,7 +42,7 @@ You'll need:
 3. go to the tensorflow_tutorial folder
 4. Click on the tutorial you wish to do. Notebook are .pynb extensions.
 
-**Now you can just follow the tutorials but keep it mind:
-1. You'll learn by doing so rewrite the tutorials as you go
+**Now you can just follow the tutorials but keep it mind:**
+**1. You'll learn by doing so rewrite the tutorials as you go
 2. If things get fuzzy or you happen to run into a bug pull an issue or contact me
 3. There exists more modern way to setup an environment (Docker Image, Floyd Machine, etc.) but since most people still do it that way, its good to handle a little bit of it.
