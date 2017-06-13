@@ -13,31 +13,30 @@ You'll need:
 - Tensorflow: Library for machine learning
 - Keras: TensorFlow simplified library for machine learning
 
-# Downloads: where to get those
-
-***Anaconda***
+**Anaconda**
 1. Go to [Anaconda Installation Website](https://www.continuum.io/downloads)
 2. Just click on the icon that represent your computer.
 3. Click on *Python 2.7 graphical installer*
 4. Open the download package (.pkg) and follow the installation instruction making sure to install to the default location, note the location (i.e. this/is/a/location).
 5. Now you have the Anaconda application installed with Python 2.7, conda package manager and other cool stuff
 
-***TensorFlow***
+**TensorFlow**
 1. For Mac and Linux: Open Terminal and type *which pip* / For Windows: Open Command Line and type *where pip*
 2. Make sure that pip is under the installed anaconda location (the one previously noted)
 3. Type *pip install tensorflow*
 4. Follow the installation instructions
 
-***Keras***
+**Keras**
 1. Type *pip install Keras*
 
-***GitHub***
-GitHub is where you are standing now, it's a shared place to get the tutorials, ask question or report issues.
+**GitHub**
+*GitHub is where you are standing now, it's a shared place to get the tutorials, ask question or report issues.*
 1. Choose the repository tensorflow_tutorial
 2. Click on download *zip* on the right corner
 3. Open the zip file
 
-***Jupyter***
+**Jupyter**
+*Jupyter is a neat way to present python code in a text-like way*
 1. Open the Anaconda application named Anaconda-Navigator
 2. Open Jupyter Notebook, that'll trigger your browser and open a folder page
 3. go to the tensorflow_tutorial folder
