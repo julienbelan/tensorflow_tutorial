@@ -23,9 +23,8 @@ You'll need:
 5. Now you have the Anaconda application installed with Python 2.7, conda package manager and other cool stuff
 
 **TensorFlow**
-1a. For Mac and Linux: Open Terminal and type *which pip*
-1b. For Windows: Open Command Line and type *where pip*
-2. Make sure that pip is in the installed anaconda location (the one previously noted)
+1. For Mac and Linux: Open Terminal and type *which pip* / For Windows: Open Command Line and type *where pip*
+2. Make sure that pip is under the installed anaconda location (the one previously noted)
 3. Type *pip install tensorflow*
 4. Follow the installation instructions
 
