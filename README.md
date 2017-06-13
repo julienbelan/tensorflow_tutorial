@@ -7,6 +7,7 @@ Tutorial to Master the TensorFlow Library
 3. Basics in Terminal (Mac, Linux) or Command Line (Windows) handling
 
 ***Environment: How to set up your computer***
+
 You'll need:
 - Anaconda: Library with Python + all the stuff you'll need
 - Tensorflow: Library for machine learning
