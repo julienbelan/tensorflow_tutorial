@@ -13,7 +13,7 @@ You'll need:
 - Tensorflow: Library for machine learning
 - Keras: TensorFlow simplified library for machine learning
 
-# Downloads: where to get those
+# Downloads: Where to get those
 
 ***Anaconda***
 1. Go to [Anaconda Installation Website](https://www.continuum.io/downloads)
