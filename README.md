@@ -27,17 +27,15 @@ You'll need:
 4. Follow the installation instructions
 
 **Keras**
-1. Type *pip install Keras*
+1. Type *pip install Keras* d
 
 **GitHub**
-
 *GitHub is where you are standing now, it's a shared place to get the tutorials, ask questions or report issues.*
 1. Choose the repository tensorflow_tutorial
 2. Click on download *zip* on the right corner
 3. Open the zip file
 
 **Jupyter**
-
 *Jupyter is a neat way to present python code in a text-like way*
 1. Open the Anaconda application named Anaconda-Navigator
 2. Open Jupyter Notebook, that'll trigger your browser and open a folder page
