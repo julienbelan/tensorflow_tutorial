@@ -43,9 +43,8 @@ You'll need:
 4. Click on the tutorial you wish to do. Notebook are .pynb extensions.
 
 **Pycharm**
-
-*Pycharm is a Python IDE (Integrated Development Environment) it's a all-in-the-box tool for writing Python. The best feature of IDE is the debugger which allow you to find bugs in your code and read your code in a thread-like way.
-1. Go to (JetBrain Pycharm)[https://www.jetbrains.com/pycharm/download/#section=mac] installation page
+*Pycharm is a Python IDE (Integrated Development Environment) it's a all-in-the-box tool for writing Python that allow you to debug and read code easily.*
+1. Go to [JetBrain Pycharm](https://www.jetbrains.com/pycharm/download/#section=mac) installation page
 2. Choose the good operating system (Windows, macOS or Linux)
 3. Choose Community version, odds are that you will never need anything more
 4. Open the Pycharm and choose the appearance you wish to use (I find that in general darker is better)
