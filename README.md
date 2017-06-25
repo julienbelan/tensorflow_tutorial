@@ -27,7 +27,7 @@ You'll need:
 4. Follow the installation instructions
 
 **Keras**
-1. Type *pip install Keras* d
+1. Type *pip install Keras* 
 
 **GitHub**
 *GitHub is where you are standing now, it's a shared place to get the tutorials, ask questions or report issues.*
@@ -39,8 +39,19 @@ You'll need:
 *Jupyter is a neat way to present python code in a text-like way*
 1. Open the Anaconda application named Anaconda-Navigator
 2. Open Jupyter Notebook, that'll trigger your browser and open a folder page
-3. go to the tensorflow_tutorial folder
+3. Go to the tensorflow_tutorial folder
 4. Click on the tutorial you wish to do. Notebook are .pynb extensions.
+
+**Pycharm**
+*Pycharm is a Python IDE (Integrated Development Environment) it's a all-in-the-box tool for writing Python. The best feature of IDE is the debugger which allow you to find bugs in your code and read your code in a thread-like way.
+1. Go to (JetBrain Pycharm)[https://www.jetbrains.com/pycharm/download/#section=mac] installation page
+2. Choose the good operating system (Windows, macOS or Linux)
+3. Choose Community version, odds are that you will never need anything more
+4. Open the Pycharm and choose the appearance you wish to use (I find that in general darker is better)
+5. Click on *Create New Project*
+6. In *Location* pick tensorflow_tutorial folder (remember to use the complete path (aka absolute path))
+7. In *Interpreter*, pick the anaconda interpreter we've just installed (that should be something like ~/anaconda2/bin/python)
+8. A new window will open, go to *File*, pick *New*, scroll and click on *Python File*
 
 **Now you can just follow the tutorials but keep it mind:**
 1. You'll learn by doing so rewrite the tutorials as you go by clicking *new* then *notebook* on the right corner  
