@@ -12,6 +12,7 @@ You'll need:
 - Anaconda: Library with Python + all the stuff you'll need
 - Tensorflow: Library for machine learning
 - Keras: TensorFlow simplified library for machine learning
+- Pycharm: A tool to write Python easily
 
 **Anaconda**
 1. Go to [Anaconda Installation Website](https://www.continuum.io/downloads)
